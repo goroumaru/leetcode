@@ -1,6 +1,9 @@
+### Question
+https://leetcode.com/problems/symmetric-tree/
+
 ### Accepted Status
 
-``` before
+```
 [before]
 195 / 195 test cases passed.
 Status: Accepted
@@ -10,8 +13,12 @@ Memory Usage: 2.9 MB
 
 ``` 
 [after]
-
+195 / 195 test cases passed.
+Status: Accepted
+Runtime: 8 ms
+Memory Usage: 2.9 MB
 ```
+
 ### before考察
 * 判定文をまとめられる
     
@@ -28,3 +35,4 @@ Memory Usage: 2.9 MB
 * 別の方法として、BFS探索も使える
 
 ### After考察
+* 判定文をまとめた
