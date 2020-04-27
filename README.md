@@ -1,7 +1,16 @@
 # LeetCode
 
 ## Wiki
-[勉強ログ](https://yurulab.kibe.la/)はここ！（現在、kibela）
+
+* 勉強ログ
+    
+    各フォルダのReadMeへ劇的Before/Afterを！
+
+* 備忘録(kibela)
+    
+    https://yurulab.kibe.la/
+    
+
 
 ## Links
 
