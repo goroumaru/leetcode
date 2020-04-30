@@ -16,7 +16,8 @@
 
 |No.|Title|Solution|
 |:--:|:--:|:--:|
-|0108|[Convert Sorted Array to Binary Search Tree](algorithms/0108.ConvertSortedArrayToBinarySearchTree.)|go|
+|0110|[Balanced Binary Tree](algorithms/0110.BalancedBinaryTree)|go|
+|0108|[Convert Sorted Array to Binary Search Tree](algorithms/0108.ConvertSortedArrayToBinarySearchTree)|go|
 |0107|[Binary TreeLevel Order Traversal II](algorithms/0107.BinaryTreeLevelOrderTraversal2)|go|
 |0104|[Maximum Depth of Binary Tree](algorithms/0104.MaximumDepthOfBinaryTree)|go|
 |0103|[BinaryTree ZigzagLevel Order Traversal](algorithms/0103.BinaryTreeZigzagLevelOrderTraversal)|go|
