@@ -16,6 +16,7 @@
 
 |No.|Title|Solution|
 |:--:|:--:|:--:|
+|0111|[Minimum Depth of Binary Tree](algorithms/0111.MinimumDepthOfBinaryTree)|go|
 |0110|[Balanced Binary Tree](algorithms/0110.BalancedBinaryTree)|go|
 |0108|[Convert Sorted Array to Binary Search Tree](algorithms/0108.ConvertSortedArrayToBinarySearchTree)|go|
 |0107|[Binary TreeLevel Order Traversal II](algorithms/0107.BinaryTreeLevelOrderTraversal2)|go|
